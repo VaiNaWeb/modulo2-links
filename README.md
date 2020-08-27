@@ -2,7 +2,7 @@
 
 ## Lógica
 
-### 01 - Variáveis - Strings - Numbers
+### 01 - Variáveis, Strings, Numbers
 O que são variáveis, strings e numbers. Como usar template strings? :smiley:  
 [Link](https://codesandbox.io/s/aula-1-variaveis-rynk5)  
 
