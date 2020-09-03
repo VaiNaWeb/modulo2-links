@@ -10,7 +10,6 @@ O que são variáveis, strings e numbers. Como usar template strings? :smiley:
 Como meu algoritmo toma decisões? :smiley:  
 [Link](https://codesandbox.io/s/aula-2-ifelse-2nlbf)  
 
-[Link](https://codesandbox.io/s/aula-1-variaveis-rynk5)  
 ## React
 
 ### 00 - Class Component  
