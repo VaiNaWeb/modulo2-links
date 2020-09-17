@@ -12,7 +12,11 @@ Como meu algoritmo toma decisões? :smiley:
 
 ### 03 - Loops
 Como meu algoritmo repete meu código? :smiley:  
-[Link](https://codesandbox.io/s/aula-03-loops-gvrcx)  
+[Link](https://codesandbox.io/s/aula-03-loops-gvrcx) 
+
+### 04 - Funções
+Como reutilizar um bloco de código usando funções? :smiley:  
+[Link](https://codesandbox.io/s/flamboyant-swartz-tye04) 
 
 ## React
 
