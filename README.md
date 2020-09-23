@@ -7,7 +7,7 @@ O que são variáveis, strings e numbers. Como usar template strings? :smiley:
 [Código](https://codesandbox.io/s/aula-1-variaveis-rynk5)  
 [Aula](https://www.loom.com/share/80a4117979754a3c9957328c79acdf45)
 
-### 02 - Arrays/Objects
+### 02 - Arrays, Objects
 O que são arrays e objetos? Pra que servem? :smiley:  
 [Código]()  
 
