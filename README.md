@@ -7,19 +7,23 @@ O que são variáveis, strings e numbers. Como usar template strings? :smiley:
 [Código](https://codesandbox.io/s/aula-1-variaveis-rynk5)  
 [Aula](https://www.loom.com/share/80a4117979754a3c9957328c79acdf45)
 
-### 02 - Arrays, Objects
-O que são arrays e objetos? Pra que servem? :smiley:  
+### 02 - Arrays
+O que são arrays? Pra que servem? :smiley:  
 [Código]()  
 
-### 03 - If/Else
+### 03 - Objects
+O que são objetos? Pra que servem? :smiley:  
+[Código]()  
+
+### 04 - If/Else
 Como meu algoritmo toma decisões? :smiley:  
 [Código](https://codesandbox.io/s/aula-2-ifelse-2nlbf)  
 
-### 04 - Loops
+### 05 - Loops
 Como meu algoritmo repete meu código? :smiley:  
 [Código](https://codesandbox.io/s/aula-03-loops-gvrcx) 
 
-### 05 - Funções
+### 06 - Funções
 Como reutilizar um bloco de código usando funções? :smiley:  
 [Código](https://codesandbox.io/s/flamboyant-swartz-tye04) 
 
