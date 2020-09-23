@@ -5,6 +5,7 @@
 ### 01 - Variáveis, Strings, Numbers
 O que são variáveis, strings e numbers. Como usar template strings? :smiley:  
 [Link](https://codesandbox.io/s/aula-1-variaveis-rynk5)  
+[Video](https://www.loom.com/share/80a4117979754a3c9957328c79acdf45) 
 
 ### 02 - If/Else
 Como meu algoritmo toma decisões? :smiley:  
