@@ -28,6 +28,10 @@ Como meu algoritmo repete meu código? :smiley:
 Como reutilizar um bloco de código usando funções? :smiley:  
 [Código](https://codesandbox.io/s/flamboyant-swartz-tye04) 
 
+### 07 - Switch
+Como eliminar os if/else-if usando switch :smiley:  
+[Código](https://codesandbox.io/s/charming-lovelace-ke9lj) 
+
 ## React
 
 ### 00 - Class Component  
