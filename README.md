@@ -19,10 +19,13 @@ O que são objetos? Pra que servem? :smiley:
 ### 04 - If/Else
 Como meu algoritmo toma decisões? :smiley:  
 [Código](https://codesandbox.io/s/aula-2-ifelse-2nlbf)  
+[Aula 05 - If/Else](https://www.loom.com/share/b9604d2b83af4086ac237a9c2f432499)  
 
 ### 05 - Loops
 Como meu algoritmo repete meu código? :smiley:  
 [Código](https://codesandbox.io/s/aula-03-loops-gvrcx) 
+[Aula 06 - Loops](https://www.loom.com/share/45988f14a9af432786f75e16e1a86773)
+
 
 ### 06 - Funções
 Como reutilizar um bloco de código usando funções? :smiley:  
