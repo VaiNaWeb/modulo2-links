@@ -23,7 +23,7 @@ Como meu algoritmo toma decisões? :smiley:
 
 ### 05 - Loops
 Como meu algoritmo repete meu código? :smiley:  
-[Código](https://codesandbox.io/s/aula-03-loops-gvrcx) 
+[Código](https://codesandbox.io/s/aula-03-loops-gvrcx)  
 [Loops - Video](https://www.loom.com/share/45988f14a9af432786f75e16e1a86773)
 
 
