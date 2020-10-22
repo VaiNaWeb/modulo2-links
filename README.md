@@ -35,6 +35,10 @@ Como reutilizar um bloco de código usando funções? :smiley:
 Como eliminar os if/else-if usando switch :smiley:  
 [Código](https://codesandbox.io/s/charming-lovelace-ke9lj) 
 
+### 08 - Revisão
+O que aprendemos até aqui? :smiley:  
+[Código](https://codesandbox.io/s/nifty-platform-6myrp) 
+
 ## React
 
 ### 00 - Class Component  
